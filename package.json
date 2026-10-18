@@ -1,0 +1,16 @@
+{
+  "name": "tg-skill",
+  "version": "1.0.0",
+  "description": "Telegram skill for Claude Code: find channels, read and search Telegram with your own account",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "tg": "scripts/tg.ts"
+  },
+  "dependencies": {
+    "telegram": "2.26.22"
+  },
+  "scripts": {
+    "test": "bun test"
+  }
+}

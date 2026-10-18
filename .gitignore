@@ -1,0 +1,7 @@
+node_modules/
+.env
+config.json
+session.txt
+pending-login.json
+*.session
+.DS_Store
